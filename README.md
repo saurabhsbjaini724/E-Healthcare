@@ -1,5 +1,4 @@
 E-Health Care System is virtual healthcare that means online patient care. E-Health system is highly specialized experts are deeply experienced in treating rare and complex conditions. This system is web-base which is write in PHP and MYSQL. 
-![Screenshot (176)](https://user-images.githubusercontent.com/54346414/141105982-082dc21e-e5f7-461e-9862-81a35b6928b4.png)
 
 
 Modules - 
