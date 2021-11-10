@@ -43,7 +43,7 @@ outputs of this projects -
 ![Screenshot (182)](https://user-images.githubusercontent.com/54346414/141107278-b3da55ab-28b8-4d90-9f17-24eb3bd2add5.png)
 
 ![Screenshot (183)](https://user-images.githubusercontent.com/54346414/141107286-1947569b-532f-47a1-b9ec-86037a21eb70.png)
-![Screenshot (184)](https://user-images.githubusercontent.com/54346414/141107294-e02a35c5-e3c1-4057-978f-2d7d4dfc73ee.png)
+
 
 
 
