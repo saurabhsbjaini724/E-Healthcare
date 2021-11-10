@@ -31,6 +31,22 @@ online_health_care - in this database import online_health_care.sql
  
 * 3. Run index.php 
 
+outputs of this projects -
+
+![Screenshot (176)](https://user-images.githubusercontent.com/54346414/141105982-082dc21e-e5f7-461e-9862-81a35b6928b4.png)
+![Screenshot (177)](https://user-images.githubusercontent.com/54346414/141107200-c19baa7b-d93a-4cdc-9447-dff9d31b07b9.png)
+![Screenshot (178)](https://user-images.githubusercontent.com/54346414/141107233-45829dc5-a496-44a6-b528-63a46fd31197.png)
+![Screenshot (179)](https://user-images.githubusercontent.com/54346414/141107248-865d6398-aa85-4d15-91e0-72f1115d7c7d.png)
+
+![Screenshot (180)](https://user-images.githubusercontent.com/54346414/141107258-19bb868f-e54a-4182-8a3c-9c83f242d673.png)
+![Screenshot (181)](https://user-images.githubusercontent.com/54346414/141107268-3523e0e7-cc45-4ccd-998c-e91efa701a8c.png)
+![Screenshot (182)](https://user-images.githubusercontent.com/54346414/141107278-b3da55ab-28b8-4d90-9f17-24eb3bd2add5.png)
+
+![Screenshot (183)](https://user-images.githubusercontent.com/54346414/141107286-1947569b-532f-47a1-b9ec-86037a21eb70.png)
+![Screenshot (184)](https://user-images.githubusercontent.com/54346414/141107294-e02a35c5-e3c1-4057-978f-2d7d4dfc73ee.png)
+
+
+
 
 
 
